@@ -16,14 +16,9 @@ TODO：让Choice.py实现得更优雅一点
 
 ## 游玩方法
 
-先克隆项目
+[下载releases中的zip](https://github.com/epheiamoe/gitnovel-demo/releases)
 
-```bash
-git clone https://github.com/epheiamoe/gitnovel-demo
-cd gitnovel-demo
-```
-
-建议通过文件资源管理器打开对应文件夹，并在终端打开相同目录。
+解压
 
 文件资源管理器进入`game`目录，
 
