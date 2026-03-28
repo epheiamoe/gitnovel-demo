@@ -16,7 +16,7 @@ TODO：让Choice.py实现得更优雅一点
 
 ## 游玩方法
 
-[下载releases中的zip](https://github.com/epheiamoe/gitnovel-demo/releases)
+[下载releases中的文件](https://github.com/epheiamoe/gitnovel-demo/releases)
 
 解压
 
